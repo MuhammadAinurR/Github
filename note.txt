@@ -1,1 +1,2 @@
 ini adalah repo untuk belajar github
+semoga berjalan lancar
