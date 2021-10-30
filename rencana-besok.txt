@@ -1,0 +1,4 @@
+Rencana untuk kedepannya
+
+- belajar git
+- menyelesaikan dashboard design
